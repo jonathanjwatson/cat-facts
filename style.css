@@ -1,0 +1,27 @@
+h1 {
+  font-size: 60px;
+}
+
+h2 {
+  font-size: 48px;
+}
+
+h3 {
+  font-size: 36px;
+}
+
+p {
+  font-size: 18px;
+}
+
+header {
+  width: 100%;
+  background: aqua;
+}
+
+.header {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: darkgray;
+  text-align: center;
+}
